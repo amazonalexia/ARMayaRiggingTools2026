@@ -14,6 +14,6 @@
 
 # Limb Rigger
 
-<img Src="ARMayaRiggingTools2026/Src/LimbPic.png">
+<img src="LimbPic.png">
 
 * Rig arms and legs with ikfk blend.
