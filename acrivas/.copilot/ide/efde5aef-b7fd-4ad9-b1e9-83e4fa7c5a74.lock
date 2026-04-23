@@ -1,0 +1,14 @@
+{
+  "socketPath": "\\\\.\\pipe\\mcp-fc43199f-5d8f-409a-9cef-4db2b7e874f8.sock",
+  "scheme": "pipe",
+  "headers": {
+    "Authorization": "Nonce e991bb2a-e775-48d5-bee0-ed0093177bd4"
+  },
+  "pid": 556,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1775587558493,
+  "workspaceFolders": [
+    "c:\\ARMayaRiggingTools"
+  ],
+  "isTrusted": true
+}
